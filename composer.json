@@ -1,0 +1,15 @@
+{
+    "name": "root/reviewservice",
+    "autoload": {
+        "psr-4": {
+            "Root\\Reviewservice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dominik Vozar",
+            "email": "dominikvozr@gmail.com"
+        }
+    ],
+    "require": {}
+}
