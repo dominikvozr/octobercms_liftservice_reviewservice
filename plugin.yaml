@@ -1,0 +1,6 @@
+plugin:
+    name: 'dondo.reviewservice::lang.plugin.name'
+    description: 'dondo.reviewservice::lang.plugin.description'
+    author: Dondo
+    icon: oc-icon-adjust
+    homepage: ''
