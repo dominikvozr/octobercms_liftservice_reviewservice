@@ -1,5 +1,5 @@
 {
-    "name": "root/reviewservice",
+    "name": "dondo/reviewservice-plugin",
     "autoload": {
         "psr-4": {
             "Root\\Reviewservice\\": "src/"
